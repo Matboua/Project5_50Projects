@@ -6,7 +6,7 @@ This is my fifth project from the #50projects50days challenge. In this project, 
 
 ### Demo
 
-<a href="https://matboua.github.io/Project5_50Projects/challenge5/" target="_blank">Project Demo</a>
+ctrl+click To open in a new Tab: <a href="https://matboua.github.io/Project5_50Projects/challenge5/" target="_blank">Project Demo</a>
 
 ### Video
 
@@ -30,4 +30,4 @@ Stay tuned for more projects as I progress through the challenge!
 
 The #50projects50days challenge is a learning journey aimed at improving coding skills and creativity by building 50 small projects in 50 days. Each project focuses on different aspects of web development, from frontend design to backend functionality.
 
-Follow my journey on <a href="https://www.linkedin.com/in/Matboua/">LinkedIn</a> and <a href="https://github.com/Matboua">Github</a>
+Follow my journey on <a href="https://www.linkedin.com/in/Matboua/" target="_blank">LinkedIn</a> and <a href="https://github.com/Matboua" target="_blank">Github</a>
